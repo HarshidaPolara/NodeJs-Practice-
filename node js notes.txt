@@ -1,0 +1,71 @@
+What is npm?
+it is dependency manager tool. Install package in system. 
+
+what is npx?
+help to execute packages or directly run package
+
+current version of react.js?
+19
+
+node.js?
+open source side runtime environment built on Chrome's V8 JavaScript engine.
+It is asynchronous ,even driven, non blocking, cross platform.
+Formed by Ryan Dahl in 2009. Version 22.
+
+Advantage of node.js
+-fast,non blocking I/O model
+-real time web appln
+-Solves all db queries
+-npm
+-faster page loading within a website
+-Asynchronous by default
+-Cross platform framework 
+-JS is present everywhere
+
+Disadvantage 
+-API is not stable (Application Programming Interface).
+-Lack of developers on market since it is relatively new.
+
+Who is using node.js
+-LinkedIn
+-Netflix
+-ebay
+-SAP
+-Trello
+-Walmart
+-PayPal
+-Yahoo!
+-StrongLoop
+
+Framework?
+It is a set of rules or standard way to build and deploy appln.
+
+Framwork of node.js?
+-Express,hapi,total.js
+
+
+in client side js we run it using html and css
+
+Module:
+Core Module
+	By default node installed
+	example: http,fs,etc
+Local Module
+	Create own module
+	example: database connection
+Third party 
+	libraries
+	eg:express.js,nodemon,mongoose
+------------------------------------------------------------------------------------------------how to install 3rd party packages?
+Through the website:
+npmjs.com
+nodemon
+
+package.json
+-->npm init 
+-->npm init -y
+
+download command?
+-->npm i nodemon -g
+then 
+-->npm i nodemon
